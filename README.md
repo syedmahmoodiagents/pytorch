@@ -1,0 +1,2 @@
+# pytorch
+basic pytorch setup
